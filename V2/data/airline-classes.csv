@@ -1,0 +1,30 @@
+#
+# Airline Seat Classes
+# Compiled by Acidus
+# From the ARC Indutry Agent's Handbook, Section 5.2
+#
+R,First Class (Supersonic)
+P,First Class (Premium)
+F,First Class
+A,First Class (Discounted)
+# --- Business Class
+J,Business Class (Premium)
+C,Business Class
+D,Business Class (Discounted)
+Z,Business Class (Discounted)
+# --- Coach
+W,Coach (Permium)
+S,Coach 
+Y,Coach 
+B,Coach (Discounted)
+H,Coach (Discounted)
+K,Coach (Discounted)
+L,Coach (Discounted)
+M,Coach (Discounted)
+N,Coach (Discounted)
+Q,Coach (Discounted)
+T,Coach (Discounted)
+V,Coach (Discounted)
+# --- Miscellanous
+U, Shuttle Service
+E, Shuttle Service

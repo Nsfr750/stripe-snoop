@@ -1,0 +1,14 @@
+Install wxwidgets source and go to the directory in a cygwin shell
+Then:
+
+1. export CXXFLAGS=-mno-cygwin
+2. mkdir build-cygwin
+3. cd build-cygwin
+4. ../configure --with-msw --disable-shared --enable-monolithic
+5. make
+6. make install
+
+In ss_gui:
+
+1. make
+2. ./ss_gui.exe or double-click from browser window
